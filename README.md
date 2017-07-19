@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
+Technologies used: nmp, webpack, react, react-dom, plotly, jquery.
 ## Prerequisites
 NPM should be installed on the box
-`npm install -g react-app`
 
 ## Available Scripts
 
