@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "EOD Stock trends.",
+  "name": "Trend of end of day stock prices.",
   "icons": [
     {
       "src": "favicon.ico",
