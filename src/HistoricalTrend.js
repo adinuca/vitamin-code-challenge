@@ -37,7 +37,7 @@ export default class HistoricalTrend extends Component {
                 xaxis: {title: "Open"},
                 yaxis: {title: "Count"}
             };
-            return <PlotlyComponent className="whatever" data={data} layout={layout}/>
+            return <PlotlyComponent data={data} layout={layout}/>
 
         }else{
                 alert("The data for the selected company and selected dates is not available or not accessible. " +
